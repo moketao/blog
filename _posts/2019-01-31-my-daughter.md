@@ -2,7 +2,7 @@
 layout: post
 title:  "战斗天使 v 女儿的名字"
 date:   2019-01-30 20:04:48 +0800
-categories: public
+categories: home public
 ---
 每个人长大的时候，总是好奇自己的名字，到底有什么含义，这篇文章就是留给女儿阅读的。
 

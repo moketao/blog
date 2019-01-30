@@ -3,7 +3,7 @@ layout: post
 title:  "克斌"
 date: 2018-11-10
 draft : true
-categories: [home]
+categories: home
 txtmode: true
 ---
 

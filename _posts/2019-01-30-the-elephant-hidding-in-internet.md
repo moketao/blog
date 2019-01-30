@@ -2,7 +2,7 @@
 layout: post
 title:  "隐形的大象"
 date: 2018-10-23
-categories:  创业 public
+categories: project public
 txtmode: true
 ---
 

@@ -8,17 +8,18 @@
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-1">
                 <ul class="contact-list">
-                    <!-- <li class="p-name">
+                    <li class="p-name">
                         {%- if site.author -%} {{ site.author | escape }} {%- else -%} {{ site.title | escape }} {%- endif -%}
-                    </li> -->
-                    {%- if site.qq -%}
-                    <li>
-                        <a class="u-email" href="tencent://message/?uin=30558209&Site=blog.poerlang.com&Menu=yes">QQ chat: <span>{{ site.qq }}</span></a>
                     </li>
-                    {%- endif -%} {%- if site.github_username -%}
                     <li>
-                        <a class="u-email" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">GitHub: <span>{{ site.github_username| escape }}</span></a>
-                    </li>{%- endif -%}
+                        <a class="u-email" href="http://poerlang.com">WebPage : <span>poerlang.com</span></a>
+                    </li>
+                    <li>
+                        <a class="u-email" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">GitHub : <span>{{ site.github_username| escape }}</span></a>
+                    </li>
+                    <li>
+                        <a class="u-email" href="tencent://message/?uin=30558209&Site=blog.poerlang.com&Menu=yes">QQ : <span>{{ site.qq }}</span></a>
+                    </li>
                 </ul>
             </div>
             <!-- 
@@ -27,7 +28,7 @@
             </div> -->
 
             <div class="footer-col footer-col-3">
-                <!-- <p>{{- site.description | escape -}}</p> -->
+                <p>{{- site.description | escape -}}</p>
             </div>
         </div>
 

@@ -135,6 +135,7 @@
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width: calc(45% - (#{$spacing-unit} / 2));
     text-align: right;
+    font-size: 12px;
 }
 
 @include media-query($on-laptop) {
@@ -185,7 +186,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: #e4e0e0;
 }
 
 .post-link {

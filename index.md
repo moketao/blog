@@ -1,4 +1,4 @@
 tst
 
 
-[link1](my-daughter.md)
+[link1](docs/my-daughter.md)

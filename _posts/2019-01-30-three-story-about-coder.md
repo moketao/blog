@@ -2,7 +2,7 @@
 layout: post
 title:  "关于程序员的三个故事"
 date: 2018-10-22
-categories: [one]
+categories:  创业 public
 txtmode: true
 ---
 

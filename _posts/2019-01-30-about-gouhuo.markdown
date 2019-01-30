@@ -2,7 +2,7 @@
 layout: post
 title:  "为什么要建立篝火社区"
 date: 2018-10-23
-categories: [one]
+categories: 创业 public
 txtmode: true
 ---
 

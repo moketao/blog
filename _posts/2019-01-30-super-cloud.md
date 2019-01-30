@@ -2,7 +2,7 @@
 layout: post
 title:  "超平台"
 date: 2018-11-11
-categories: [one]
+categories: 创业 public
 txtmode: true
 ---
 

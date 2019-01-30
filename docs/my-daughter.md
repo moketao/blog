@@ -1,11 +1,8 @@
 ---
+title: "琪梦"
 layout: post
-title:  "琪梦"
 date: 2018-11-10
-categories: [one]
-txtmode: true
 ---
-
 
 琪梦，我女儿，全名**莫琪梦**。
 

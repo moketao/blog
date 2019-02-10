@@ -4,6 +4,7 @@ title:  "关于程序员的三个故事"
 date: 2018-10-22
 categories: project public
 txtmode: true
+tags: [think]
 ---
 
 `(此篇文章有吹牛的嫌疑，请谨慎阅读 。。。)`

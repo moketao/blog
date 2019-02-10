@@ -4,6 +4,7 @@ title:  "共享工厂函数化"
 date: 2019-02-07
 categories: project public
 txtmode: true
+tags: [think]
 ---
 
 `本文修改中，请谨慎阅读`

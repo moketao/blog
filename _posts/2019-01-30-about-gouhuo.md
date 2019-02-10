@@ -4,6 +4,7 @@ title:  "为什么要建立篝火社区"
 date: 2018-10-23
 categories: project public
 txtmode: true
+tags: [think]
 ---
 
 由于工作压力大，加班时间长，程序员猝死的事情，时有发生。
